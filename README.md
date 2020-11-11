@@ -1,6 +1,6 @@
-#Tic-Tac-Toe frontend
+# Tic-Tac-Toe frontend
 
-#Instructions:
+## Instructions:
 1. Download and unpack everything into local folder.
 2. Run backend via Node.js or Docker.
 3. Set HOST and PORT variables in tic_tac_toe_client.js. Default values are 'localhost' and '8080' respectively.
